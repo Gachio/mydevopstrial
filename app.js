@@ -1,1 +1,1 @@
-console.log('Hello');
+echo('Hello');
