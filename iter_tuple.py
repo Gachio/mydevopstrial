@@ -1,0 +1,6 @@
+example_water = ("blessed", "eva", "spring", "bloom", "nestle")
+my_tuple = iter(example_water)
+print(next(my_tuple))
+print(next(my_tuple))
+print(next(my_tuple))
+print(next(my_tuple))
